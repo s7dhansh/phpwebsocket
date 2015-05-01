@@ -1,14 +1,10 @@
 # phpwebsocket
-Automatically exported from code.google.com/p/phpwebsocket
+Automatically exported from http://code.google.com/p/phpwebsocket
 
 **I don't take any credit for the code.**
 
 
 **PHP and WebSockets**
-
-Quick hack to implement websockets in php. As of Feb/10 the only browsers that support websockets are Google Chrome and Webkit Nightlies. Get it from here http://www.google.com/chrome
-
-Browse the source code
 
 **Changelog**
 
